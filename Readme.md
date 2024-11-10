@@ -16,8 +16,3 @@ def sobre_mim():
 
 sobre_mim()
 
-Vamos conversar?
-
-Você pode me encontrar em Twitter ou LinkedIn.
-
-Esse formato usa Python para fazer a "apresentação" e também te permite destacar suas habilidades e interesses de uma maneira divertida. Você pode personalizar os links e o nome conforme suas preferências!
