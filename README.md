@@ -22,16 +22,6 @@ Sempre buscando aprender algo novo, gosto de explorar possibilidades criativas e
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRFR5433&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🤝 Vamos colaborar?
 
 Estou aberto a **colaborações em projetos** que envolvam:
