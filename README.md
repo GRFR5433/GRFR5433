@@ -29,11 +29,6 @@ Estou aberto a **colaborações em projetos** que envolvam:
 - Criação de páginas com HTML/CSS
 - Aprendizado em conjunto 🚀
 
-📫 **Entre em contato:**  
-- GitHub: [@GRFR5433](https://github.com/GRFR5433)
-
----
-
 <p align="center">
   ⭐ Vamos construir algo incrível juntos! ⭐
 </p>
