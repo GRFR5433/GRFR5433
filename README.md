@@ -1,16 +1,25 @@
 <h1 align="center">👋 Olá, eu sou @GRFR5433!</h1>
 
 <p align="center">
-  💻 Programador Junior | 🚀 Em busca de novos desafios | 🌟 Sempre aprendendo!
+  💻 Programador Júnior | 🚀 Em busca de novos desafios | 🌱 Sempre aprendendo e evoluindo!
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um entusiasta da tecnologia com prática em **Python**, além de conhecimentos sólidos em **HTML** e **CSS**, que me permitem criar soluções funcionais e interfaces elegantes.
+Sou um desenvolvedor júnior apaixonado por tecnologia e inovação. Com experiência prática em **Python**, **HTML**, **CSS** e em fase de aprendizado em **JavaScript**, estou sempre em busca de desafios que me permitam evoluir como profissional e contribuir de forma significativa para projetos.
 
-Sempre buscando aprender algo novo, gosto de explorar possibilidades criativas em desenvolvimento de software e design web.
+Tenho interesse especial por automações, desenvolvimento web e interfaces que unem **eficiência** e **design moderno**.
+
+---
+
+## 💼 O que posso oferecer
+
+✅ Comprometimento com prazos e qualidade  
+✅ Facilidade de aprendizado e adaptação  
+✅ Trabalho colaborativo e boa comunicação  
+✅ Interesse contínuo por novas tecnologias  
 
 ---
 
@@ -20,15 +29,17 @@ Sempre buscando aprender algo novo, gosto de explorar possibilidades criativas e
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ## 🤝 Vamos colaborar?
 
-Estou aberto a **colaborações em projetos** que envolvam:
-- Desenvolvimento em Python
-- Criação de páginas com HTML/CSS
-- Aprendizado em conjunto 🚀
+Estou à disposição para colaborar em projetos como:
+- Desenvolvimento de páginas e aplicações web com HTML/CSS/JS
+- Scripts e automações com Python
+- Projetos educativos e de aprendizado em equipe
 
 <p align="center">
-  ⭐ Vamos construir algo incrível juntos! ⭐
+  🚀 Estou pronto para contribuir com dedicação, criatividade e vontade de aprender!  
+  <br>🌟 Vamos construir algo incrível juntos? 🌟
 </p>
