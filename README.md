@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou @GRFR5433!</h1>
 
 <p align="center">
-  💻 Entusiasta da programação | 🚀 Em busca de novos desafios | 🌟 Sempre aprendendo!
+  💻 Programador Junior | 🚀 Em busca de novos desafios | 🌟 Sempre aprendendo!
 </p>
 
 ---
