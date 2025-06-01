@@ -10,7 +10,7 @@
 
 Sou um desenvolvedor júnior apaixonado por tecnologia e inovação. Com experiência prática em **Python**, **HTML**, **CSS** e em fase de aprendizado em **JavaScript**, estou sempre em busca de desafios que me permitam evoluir como profissional e contribuir de forma significativa para projetos.
 
-Tenho interesse especial por automações, desenvolvimento web e interfaces que unem **eficiência** e **design moderno**.
+
 
 ---
 
@@ -18,7 +18,7 @@ Tenho interesse especial por automações, desenvolvimento web e interfaces que 
 
 ✅ Comprometimento com prazos e qualidade  
 ✅ Facilidade de aprendizado e adaptação  
-✅ Trabalho colaborativo e boa comunicação  
+✅ Trabalho colaborativo  
 ✅ Interesse contínuo por novas tecnologias  
 
 ---
